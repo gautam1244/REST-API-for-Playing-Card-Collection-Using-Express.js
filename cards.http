@@ -1,0 +1,2 @@
+# List all cards
+GET http://localhost:3000/cards
