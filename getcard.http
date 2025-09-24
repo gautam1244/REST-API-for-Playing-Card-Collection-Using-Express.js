@@ -1,0 +1,2 @@
+# Get a card by ID
+GET http://localhost:3000/cards/2
